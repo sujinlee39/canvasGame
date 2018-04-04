@@ -1,0 +1,22 @@
+body
+{
+  text-align: center;
+  user-select: none;
+}
+
+canvas
+{
+  position: relative;
+  border: thin solid black;
+  display: block;
+  margin: 0 auto 20px;
+}
+.hide-me
+{
+  display: none;
+}
+
+button {
+  margin: 0 8px;
+  user-select: none;
+}
